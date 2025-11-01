@@ -3,7 +3,7 @@
 `itable` is a cross-platform **interactive terminal application** written in C using `ncurses`.  
 It displays a scrollable table with editable rows, real-time memory information, and support for exporting to CSV.
 
-The goal of the project is to demonstrate how a text-based user interface can handle structured data — fully offline, in pure C.
+The goal of the project is to demonstrate how a text-based user interface can handle structured data — fully offline, in pure C. Further, the goal of the project is to take C and say that it is still very relevant and very useful in many ways especially in demostration and time constraint.
 
 ---
 
